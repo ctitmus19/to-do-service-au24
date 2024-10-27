@@ -19,7 +19,7 @@ The groceries are taken care of and you don't have to eat candy bars for breakfa
 ## Set up your development system
 Before you dive into our tutorials and start loving the To-Do service, you need to set up your system so everything runs smoothly. View the article below for detailed steps:
 
-- [Set up your development system](before-you-start-a-tutorial.md)
+- [Set up your development system](../before-you-start-a-tutorial.md)
 
 **Note:** You only need to follow the setup steps once per development system.
 
