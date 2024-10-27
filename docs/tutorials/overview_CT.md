@@ -27,7 +27,7 @@ Before you dive into our tutorials and start loving the To-Do service, you need 
 Ready to give the To-Do service a spin? Find a quick guide below for steps on creating your first task.
 We're sure you'll be surprised at how easy it is to use.
 
-- [Create your first task](tutorials/create_first_task_CT.md)
+- [Create your first task](create_first_task_CT.md)
 
 ## Tutorials
 
@@ -35,10 +35,10 @@ Through the To-Do service, you can easily update task reminders and the list
 of users who receive them. View the tutorials below for more information.
 
 ### Tasks
-* [Add a new task](tutorials/add-a-new-task.md)
+* [Add a new task](add-a-new-task.md)
 
 ### Users
-* [Enroll a new user](tutorials/enroll-a-new-user.md)
+* [Enroll a new user](enroll-a-new-user.md)
 
 ## API reference docs
 
