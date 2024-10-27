@@ -11,7 +11,7 @@ will walk you through creating a reminder task that the API will send to you!
 ## Set up your environment
 Before you can create a task, you need to download a few tools and test your development system.
 
-[View this article for these important preliminary steps.](before-you-start-a-tutorial.md)
+[View this article for these important preliminary steps.](docs/before-you-start-a-tutorial.md)
 
 **Note:** You only need to follow the setup steps once per development system.
 
